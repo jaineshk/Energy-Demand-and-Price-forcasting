@@ -7,3 +7,6 @@ Historical load
 Forecasted values
 Renewable generation
 Time/date features
+
+
+Future: Adding the weather data for more accurate prediction
