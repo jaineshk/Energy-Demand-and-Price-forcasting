@@ -1,3 +1,5 @@
+Source: https://open-power-system-data.org/
+
 Project: Electricity Load Forecasting for Austria.
 
 Predict next-hour electricity demand (AT_load_actual) using:
